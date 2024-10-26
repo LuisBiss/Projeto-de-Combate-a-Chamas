@@ -19,7 +19,6 @@ gpioinfo
 ```
 sudo python3 main.py
 ```
-<br>
 ## Instalar e executar o MongoDB pelo terminal do Linux
 ```
 sudo apt install mongodb
