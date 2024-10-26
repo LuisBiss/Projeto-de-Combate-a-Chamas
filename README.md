@@ -20,6 +20,19 @@ gpioinfo
 sudo python3 main.py
 ```
 <br>
+## Instalar e executar o MongoDB pelo terminal do Linux
+```
+sudo apt install mongodb
+sudo systemctl start mongod
+```
+## Instalar e executar o Mongo GUI (MongoCompass)
+ ```
+wget https://downloads.mongodb.com/compass/mongodb-compass_1.44.5_amd64.deb
+sudo apt install ./mongodb-compass_1.44.5_amd64.deb
+mongodb-compass
+```
+
+<br>
 
 > [!CAUTION]
 > O interpretador do python deve estar no diretório /usr/bin/python3
